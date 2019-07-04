@@ -3,3 +3,5 @@
 [Emoji gist](https://gist.github.com/rxaviers/7360908)
 
 [GitMoji](https://github.com/carloscuesta/gitmoji)
+
+[Collection of gitignores](https://github.com/github/gitignore)
