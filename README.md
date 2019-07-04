@@ -10,6 +10,10 @@ Animation
 
 [React spinners](https://github.com/tobiasahlin/SpinKit)
 
+Algorithms
+
+[Algorithms in js](https://github.com/trekhleb/javascript-algorithms)
+
 Other
 
 [Emoji gist](https://gist.github.com/rxaviers/7360908)
