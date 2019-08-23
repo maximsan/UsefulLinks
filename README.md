@@ -2,11 +2,11 @@
 
 [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-## Useful in dev
+## Development
 
 [Collection of gitignores](https://github.com/github/gitignore)
 
-### Linters
+#### Linters
 [React specific linting rules for ESLint](https://github.com/yannickcr/eslint-plugin-react)
 
 ## Animation
